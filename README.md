@@ -16,7 +16,7 @@
 > Дорогу осилит идущий!
 
 
-![.C:\Users\depe6\OneDrive\Рабочий стол\aboutMe\man-climbing-high-mountain-on-vector-18729175.jpg]
+<image src="C:\Users\depe6\OneDrive\Рабочий стол\aboutMe\man-climbing-high-mountain-on-vector-18729175.jpg">
 
 
 
