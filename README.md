@@ -15,8 +15,8 @@
 
 > Дорогу осилит идущий!
 
-<https://cdn1.vectorstock.com/i/1000x1000/91/75/man-climbing-high-mountain-on-vector-18729175.jpg>
 
+![Getting Started](.C:\Users\depe6\OneDrive\Рабочий стол\aboutMe\man-climbing-high-mountain-on-vector-18729175.jpg)
 
 
 
